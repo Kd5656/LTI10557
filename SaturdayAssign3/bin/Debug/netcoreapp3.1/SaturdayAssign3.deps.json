@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SaturdayAssign3/1.0.0": {
+        "runtime": {
+          "SaturdayAssign3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaturdayAssign3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

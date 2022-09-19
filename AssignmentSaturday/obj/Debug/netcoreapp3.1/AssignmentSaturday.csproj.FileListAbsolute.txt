@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\bin\Debug\netcoreapp3.1\AssignmentSaturday.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.csproj.AssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\AssignmentSaturday\obj\Debug\netcoreapp3.1\AssignmentSaturday.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\bin\Debug\netcoreapp3.1\Assignment1.0.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.csproj.AssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Assignment1.0\obj\Debug\netcoreapp3.1\Assignment1.0.genruntimeconfig.cache

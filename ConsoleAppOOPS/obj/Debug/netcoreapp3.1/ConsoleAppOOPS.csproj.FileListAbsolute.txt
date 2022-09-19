@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\bin\Debug\netcoreapp3.1\ConsoleAppOOPS.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.csproj.AssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsoleAppOOPS\obj\Debug\netcoreapp3.1\ConsoleAppOOPS.genruntimeconfig.cache

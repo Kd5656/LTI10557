@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\bin\Debug\netcoreapp3.1\ConsleApp_HInheritance.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.csproj.AssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\ConsleApp_HInheritance\obj\Debug\netcoreapp3.1\ConsleApp_HInheritance.genruntimeconfig.cache

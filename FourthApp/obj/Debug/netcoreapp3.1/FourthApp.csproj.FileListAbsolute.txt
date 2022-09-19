@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\bin\Debug\netcoreapp3.1\FourthApp.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.csprojAssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\FourthApp\obj\Debug\netcoreapp3.1\FourthApp.genruntimeconfig.cache

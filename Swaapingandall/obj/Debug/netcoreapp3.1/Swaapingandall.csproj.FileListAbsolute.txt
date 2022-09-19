@@ -1,0 +1,13 @@
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.exe
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.deps.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.runtimeconfig.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.runtimeconfig.dev.json
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\bin\Debug\netcoreapp3.1\Swaapingandall.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.csproj.AssemblyReference.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.AssemblyInfoInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.AssemblyInfo.cs
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.csproj.CoreCompileInputs.cache
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.dll
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.pdb
+C:\Users\KARISHMA\OneDrive\Desktop\FIRSTDAYNET\Swaapingandall\obj\Debug\netcoreapp3.1\Swaapingandall.genruntimeconfig.cache
